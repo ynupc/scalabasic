@@ -16,7 +16,7 @@ https://github.com/ynupc/scalabasic/blob/master/RBasic.ipynb
 OSがWindowsの場合はVMWareを起動してUbuntu上に開発環境を作成します。
 OSがMac, Ubuntu, CentOSなどUNIXの場合はVMWareなしで開発環境を作成します。
 
-OSがWindowsの場合は、WMWareをインストールして、Ubuntuを作成してください。
+OSがWindowsの場合は、WMWareをインストールして、Ubuntu環境を作成してください。
 
 次の文書では、「VMware Player 7」をWindows 7にインストールする方法が書かれています。
 最新版の「VMware Workstation 12.5.0 Player」も方法は大体同じです。  
