@@ -13,7 +13,7 @@ R言語の実行結果：
 https://github.com/ynupc/scalabasic/blob/master/RBasic.ipynb
 
 ## 環境構築
-OSがWindowsの場合はVMWareを起動してUbuntu上に開発環境を作成します。
+OSがWindowsの場合はVMWareを起動して仮想OSのUbuntu上に開発環境を作成します。
 OSがMac, Ubuntu, CentOSなどUNIXの場合はVMWareなしで開発環境を作成します。
 
 OSがWindowsの場合は、WMWareをインストールして、Ubuntu環境を作成してください。
@@ -24,6 +24,7 @@ http://okuzawats.com/ubuntu-on-vmware-20150605
 VMware Workstation 12.5.0 Playerダウンロードページ  
 https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0|PLAYER-1250|product_downloads
 
+Windowsは仮想OSをたてるように促しましたが、Windows上に直接環境を構築したい人は頑張ってみてください。
 ---
 ここからはWindows以外のOSとWindows上のUbuntuと共通の作業。
 
