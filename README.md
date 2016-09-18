@@ -18,6 +18,8 @@ http://okuzawats.com/ubuntu-on-vmware-20150605
 VMware Workstation 12.5.0 Playerダウンロードページ  
 https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0|PLAYER-1250|product_downloads
 ---
+ここからはWindows以外のOSとWindows上のUbuntuと共通の作業。
+
 次のページからOracle Java 8 JDKをダウンロードしてインストールしてください。  
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html  
 「Java SE Development Kit 8u102」の「Accept License Agreement 」にチェックを入れて、開発環境のOSと対応するダウンロードのリンクをクリックしてください。
