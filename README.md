@@ -7,6 +7,9 @@ Jupyter Notebook上でScalaの対話型評価環境REPL（Read-eval-print loop�
 （ついでに、Jupyter Notebook上でR言語も実行してみます。）
 
 ## 環境構築
+OSがWindowsの場合はVMWareを起動してUbuntu上に開発環境を作成します。
+OSがMac, Ubuntu, CentOSなどUNIXの場合はVMWareなしで開発環境を作成します。
+
 OSがWindowsの場合は、WMWareをインストールして、Ubuntuを作成してください。
 
 次の文書では、「VMware Player 7」をWindows 7にインストールする方法が書かれています。
@@ -14,10 +17,7 @@ OSがWindowsの場合は、WMWareをインストールして、Ubuntuを作成�
 http://okuzawats.com/ubuntu-on-vmware-20150605  
 VMware Workstation 12.5.0 Playerダウンロードページ  
 https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0|PLAYER-1250|product_downloads
-
-OSがWindowsの場合はVMWareを起動してUbuntu上に開発環境を作成します。
-OSがMac, Ubuntu, CentOSなどUNIXの場合はVMWareなしで開発環境を作成します。
-
+---
 次のページからOracle Java 8 JDKをダウンロードしてインストールしてください。  
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html  
 「Java SE Development Kit 8u102」の「Accept License Agreement 」にチェックを入れて、開発環境のOSと対応するダウンロードのリンクをクリックしてください。
