@@ -17,6 +17,7 @@ OSがWindowsの場合は、WMWareをインストールして、Ubuntuを作成�
 http://okuzawats.com/ubuntu-on-vmware-20150605  
 VMware Workstation 12.5.0 Playerダウンロードページ  
 https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0|PLAYER-1250|product_downloads
+
 ---
 ここからはWindows以外のOSとWindows上のUbuntuと共通の作業。
 
