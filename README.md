@@ -26,7 +26,7 @@ Scalaをインストールしてください。
 http://www.scala-lang.org/  
 トップページにあるダウンロードボタンをクリックしてください。（OSがUnixの場合は、MacPortsやapt-getなどからインストールできるかもしれません）
 
-ここまででも今回の内容の基本的なところは扱えます。
+***ここまででも今回の内容の基本的なところは扱えます。***
 
 Python 3をインストールしてください。（OSがUnixの場合は、MacPortsやapt-getなどからインストールできるかもしれません）  
 https://www.python.org/downloads/  
