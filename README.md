@@ -6,6 +6,12 @@ Scala言語に慣れるために、
 Jupyter Notebook上でScalaの対話型評価環境REPL（Read-eval-print loop）を体験します。
 （ついでに、Jupyter Notebook上でR言語も実行してみます。）
 
+Scala言語の実行結果：  
+https://github.com/ynupc/scalabasic/blob/master/ScalaBasic.ipynb  
+
+R言語の実行結果：  
+https://github.com/ynupc/scalabasic/blob/master/RBasic.ipynb
+
 ## 環境構築
 OSがWindowsの場合はVMWareを起動してUbuntu上に開発環境を作成します。
 OSがMac, Ubuntu, CentOSなどUNIXの場合はVMWareなしで開発環境を作成します。
