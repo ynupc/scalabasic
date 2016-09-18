@@ -25,6 +25,7 @@ VMware Workstation 12.5.0 Playerダウンロードページ
 https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0|PLAYER-1250|product_downloads
 
 Windowsは仮想OSをたてるように促しましたが、Windows上に直接環境を構築したい人は頑張ってみてください。
+
 ---
 ここからはWindows以外のOSとWindows上のUbuntuと共通の作業。
 
